@@ -1,2 +1,2 @@
 # Web-dev
-Web development class
+All of the projects from my Web Development class
